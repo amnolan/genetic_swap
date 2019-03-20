@@ -7,3 +7,5 @@ a "high-level programming language appreciation project". After you've done this
 assembly again. Although it was very enlightening. I am glad I did it.
 
 I initially wrote everything in MIPS and then when I noticed some reusable code I added some macros which make the code a lot more readable (which you can see toward the top of the file).
+
+[MIPS Simulator Download](http://courses.missouristate.edu/KenVollmar/MARS/index.htm "MIPS Simulator Download")
