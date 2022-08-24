@@ -20,11 +20,11 @@ From inside the app, go to file, find the file
 
 ![Assemble](https://github.com/amnolan/genetic_swap/blob/master/load_file.png)
 
-From the top bar select Assemble
+From the top bar select Run->Assemble
 
 ![Assemble](https://github.com/amnolan/genetic_swap/blob/master/assemble.png)
 
-From the top bar select Go
+From the top bar select Run->Go
 
 ![Assemble](https://github.com/amnolan/genetic_swap/blob/master/run_program.png)
 
