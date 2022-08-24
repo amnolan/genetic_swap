@@ -10,3 +10,23 @@ I initially wrote everything in raw MIPS and then when I noticed some reusable c
 
 You can also check out, build and compile the MIPS simulator via [MIPS Source Code](https://github.com/amnolan/mars). Or get the jar here
 [MIPS Simulator Download](http://courses.missouristate.edu/KenVollmar/MARS/index.htm "MIPS Simulator Download")
+
+How to run:
+
+    Navigate to the Mars exe file
+    ./mars # program starts up
+
+From inside the app, go to file, find the file
+
+![Assemble](https://github.com/amnolan/genetic_swap/blob/master/load_file.png)
+
+From the top bar select Assemble
+
+![Assemble](https://github.com/amnolan/genetic_swap/blob/master/assemble.png)
+
+From the top bar select Go
+
+![Assemble](https://github.com/amnolan/genetic_swap/blob/master/run_program.png)
+
+Respond to the prompts in the console below
+![Assemble](https://github.com/amnolan/genetic_swap/blob/master/running.jpg)
