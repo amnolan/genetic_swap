@@ -8,4 +8,5 @@ assembly again. Although it was very enlightening. I am glad I did it.
 
 I initially wrote everything in raw MIPS and then when I noticed some reusable code I added some macros which make the code a lot more readable (which you can see toward the top of the file).
 
+You can also check out, build and compile the MIPS simulator via [MIPS Source Code](https://github.com/amnolan/mars). Or get the jar here
 [MIPS Simulator Download](http://courses.missouristate.edu/KenVollmar/MARS/index.htm "MIPS Simulator Download")
